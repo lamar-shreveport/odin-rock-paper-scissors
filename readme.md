@@ -1,0 +1,1 @@
+This is a javascript implementation of the game Tic Tac Toe.
